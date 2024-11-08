@@ -1,0 +1,86 @@
+[
+    {
+      "id": "0193076c-fa71-78ae-b272-9918fbf34874",
+      "name": "approvals - Socrata"
+    },
+    {
+      "id": "0193076b-c478-7666-b362-b38e89c92b60",
+      "name": "attributionLink - Socrata"
+    },
+    {
+      "id": "0193076b-7a71-7ed9-ac7e-0b170d52dd57",
+      "name": "attribution - Socrata"
+    },
+    {
+      "id": "0193076a-c8f2-7d44-8e88-d4b419eadd97",
+      "name": "category - Socrata"
+    },
+    {
+      "id": "01930768-32c1-77d0-b69c-eb8d17150cb1",
+      "name": "createdAt - Socrata"
+    },
+    {
+      "id": "0193076c-3ecf-7048-90f8-358b96518e13",
+      "name": "customFields - Socrata"
+    },
+    {
+      "id": "01930768-d18b-7c7b-8611-2d05cb0fde46",
+      "name": "dataUpdatedAt - Socrata"
+    },
+    {
+      "id": "01930767-920f-7026-a4ad-cae6762ce13e",
+      "name": "dataUri - Socrata"
+    },
+    {
+      "id": "0193076a-83fe-7500-b686-49ce2fd94595",
+      "name": "description - Socrata"
+    },
+    {
+      "id": "01930767-4bd7-77e6-af45-c7ba98c1e5ba",
+      "name": "domain - Socrata"
+    },
+    {
+      "id": "0193076c-0e7b-7016-8d4e-d71cdf061ce0",
+      "name": "externalId - Socrata"
+    },
+    {
+      "id": "01930769-ab64-7e60-bb4d-1468f3e40f96",
+      "name": "hideFromCatalog - Socrata"
+    },
+    {
+      "id": "01930769-e84b-77d3-9436-01e5e166f9f9",
+      "name": "hideFromDataJson - Socrata"
+    },
+    {
+      "id": "01930767-1011-7e9c-8373-45916c88bdb4",
+      "name": "id - Socrata"
+    },
+    {
+      "id": "0193076b-3fa6-7919-b895-89e00bc7c889",
+      "name": "license - Socrata"
+    },
+    {
+      "id": "01930769-1217-7ae2-b48d-73006ddf785c",
+      "name": "metadataUpdatedAt - Socrata"
+    },
+    {
+      "id": "0193076a-29f2-7ce0-a85e-52633bd8c6fe",
+      "name": "name - Socrata"
+    },
+    {
+      "id": "01930769-56d8-792f-9377-cafc2b3f4a07",
+      "name": "provenance - Socrata"
+    },
+    {
+      "id": "0193076b-03f1-73be-8155-5638065f2c37",
+      "name": "tags - Socrata"
+    },
+    {
+      "id": "01930768-7c6c-71a7-b62f-b10cc17ec3ee",
+      "name": "updatedAt - Socrata"
+    },
+    {
+      "id": "01930767-f4f9-7e30-a1ac-dc6ebf854e15",
+      "name": "webUri - Socrata"
+    }
+  ]

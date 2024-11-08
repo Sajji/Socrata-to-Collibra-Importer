@@ -1,0 +1,7 @@
+{
+    "sourceApi": "http://data.colorado.gov/api/views/metadata/v1",
+    "destinationApi": "https://YOUR.collibra.com/rest/2.0/",
+    "destinationUserName": "*********",
+    "destinationPassword": "********",
+    "destinationCommunity": "Colorado"
+}
